@@ -26,5 +26,3 @@ This repository contains a Power BI dashboard that visualizes Adidas sales data 
 ## 📩 Contact
 For any questions or improvements, feel free to open an issue or contact me on LinkedIn (www.linkedin.com/in/mohammad-shaheen-276ba5231).
 
----
-🚀 **Feel free to fork, modify, and improve!**
